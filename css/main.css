@@ -150,6 +150,10 @@ img {
 		padding-bottom: 0;
 	}
 
+	.feedback__heading {
+		max-width: 460px;
+	}
+
 	.feedback__flex {
 		padding: 3rem 5rem;
 	}
